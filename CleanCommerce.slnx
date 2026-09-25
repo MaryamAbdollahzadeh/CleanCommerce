@@ -4,5 +4,6 @@
     <Project Path="src/CleanCommerce.Application/CleanCommerce.Application.csproj" />
     <Project Path="src/CleanCommerce.Domain/CleanCommerce.Domain.csproj" />
     <Project Path="src/CleanCommerce.Infrastructure/CleanCommerce.Infrastructure.csproj" />
+    <Project Path="src/CleanCommerce.Playground/CleanCommerce.Playground.csproj" />
   </Folder>
 </Solution>
