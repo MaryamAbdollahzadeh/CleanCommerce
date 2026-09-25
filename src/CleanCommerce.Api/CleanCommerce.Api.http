@@ -1,0 +1,6 @@
+@CleanCommerce.Api_HostAddress = http://localhost:5259
+
+GET {{CleanCommerce.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
