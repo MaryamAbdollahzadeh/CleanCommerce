@@ -6,4 +6,5 @@
     <Project Path="src/CleanCommerce.Infrastructure/CleanCommerce.Infrastructure.csproj" />
     <Project Path="src/CleanCommerce.Playground/CleanCommerce.Playground.csproj" />
   </Folder>
+  <Folder Name="/tests/" />
 </Solution>
